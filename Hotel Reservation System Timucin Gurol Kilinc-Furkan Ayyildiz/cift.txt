@@ -1,0 +1,6 @@
+ 1)*                2)**                3)***
+minibar(+)      minibar(+)       minibar(+)
+TV(-)             TV(+)            TV(+)
+service(-)      service(-)      service(+)
+Jacuzzi(-)     Jacuzzi(-)      Jacuzzi(+)
+ 400tl/per    500tl/per     600tl/per

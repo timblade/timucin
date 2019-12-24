@@ -1,0 +1,13 @@
+Name:timucin
+Surname:kilinc
+TC no:
+Passport no:123456789
+Phone number:05536743101
+Your hotel in BODRUM
+Check-in date:2020/5/19
+Check-out date:2020/6/12
+Minibar:+
+TV:+
+Service:+
+Jacuzzi:+
+Price:600
